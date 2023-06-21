@@ -1,0 +1,71 @@
+# 
+# Translators:
+# b69c2a93906c05ae6c29d92764e0c514_a60d939 <d3228bef33de55768f09e9bcee81a089_965373>, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Serbian (https://app.transifex.com/anticapitalista/teams/10162/sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Accessories"
+msgstr "Прибор"
+
+msgid "All Applications"
+msgstr "Сви програми"
+
+msgid "Development"
+msgstr "Развој"
+
+msgid "Education"
+msgstr "Образовање"
+
+msgid "Games"
+msgstr "Игре"
+
+msgid "Graphics"
+msgstr "Цртање"
+
+msgid "Hardware"
+msgstr "Уређаји"
+
+msgid "Help"
+msgstr "Помоћ"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Звук и видео"
+
+msgid "Office"
+msgstr "Уред"
+
+msgid "Other"
+msgstr "Остало"
+
+msgid "Personal"
+msgstr "Лично"
+
+msgid "Science"
+msgstr "Наука"
+
+msgid "Screensavers"
+msgstr "Чувари приказа"
+
+msgid "Settings"
+msgstr "Поставке"
+
+msgid "System"
+msgstr "Систем"

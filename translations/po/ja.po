@@ -1,0 +1,75 @@
+# 
+# Translators:
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Green <usergreen@users.osdn.me>, 2023
+# Transifex Bot <>, 2023
+# 🎈 BALLOON | FU-SEN, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/anticapitalista/teams/10162/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "アクセサリ"
+
+msgid "All Applications"
+msgstr "すべてのアプリケーション"
+
+msgid "Development"
+msgstr "開発"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Games"
+msgstr "ゲーム"
+
+msgid "Graphics"
+msgstr "グラフィックス"
+
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Internet"
+msgstr "インターネット"
+
+msgid "MX Tools"
+msgstr "MX ツール"
+
+msgid "Multimedia"
+msgstr "マルチメディア"
+
+msgid "Office"
+msgstr "オフィス"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "Personal"
+msgstr "個人設定"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Screensavers"
+msgstr "スクリーンセーバー"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "System"
+msgstr "システム"

@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Henry Oquist <henryoquist@nomalm.se>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Swedish (https://app.transifex.com/anticapitalista/teams/10162/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Tillbehör"
+
+msgid "All Applications"
+msgstr "Alla program"
+
+msgid "Development"
+msgstr "Utveckling"
+
+msgid "Education"
+msgstr "Utbildning"
+
+msgid "Games"
+msgstr "Spel"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Hardware"
+msgstr "Hårdvara"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Kontorsprogram"
+
+msgid "Other"
+msgstr "Övrigt"
+
+msgid "Personal"
+msgstr "Personligt"
+
+msgid "Science"
+msgstr "Vetenskap"
+
+msgid "Screensavers"
+msgstr "Skärmsläckare"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "System"
+msgstr "System"

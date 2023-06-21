@@ -1,0 +1,72 @@
+# 
+# Translators:
+# Robin, 2023
+# Ivica  Kolić <ikoli@yahoo.com>, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Croatian (https://app.transifex.com/anticapitalista/teams/10162/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "Accessories"
+msgstr "Pomagala"
+
+msgid "All Applications"
+msgstr "Sve aplikacije"
+
+msgid "Development"
+msgstr "Razvoj"
+
+msgid "Education"
+msgstr "Obrazovanje"
+
+msgid "Games"
+msgstr "Igre"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Hardware"
+msgstr "Sklopovlje"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedija"
+
+msgid "Office"
+msgstr "Ured"
+
+msgid "Other"
+msgstr "Ostalo"
+
+msgid "Personal"
+msgstr "Osobno"
+
+msgid "Science"
+msgstr "Znanost"
+
+msgid "Screensavers"
+msgstr "Čuvari zaslona"
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "System"
+msgstr "Sustav"

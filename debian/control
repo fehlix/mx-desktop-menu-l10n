@@ -1,0 +1,16 @@
+Source: mx-desktop-menu-l10n
+Section: system
+Priority: optional
+Maintainer: fehlix <fehlix@mxlinux.org>
+Build-Depends:
+	 debhelper-compat (=13),
+	 meson (>=1.0),
+Standards-Version: 4.6.2
+Homepage: https://mxlinux.org
+
+Package: mx-desktop-menu-l10n
+Architecture: all
+Depends: 
+ gettext
+Description: provides desktop directory translations used in MX Linux
+ .

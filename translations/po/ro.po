@@ -1,0 +1,72 @@
+# 
+# Translators:
+# Robin, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Adrian, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Romanian (https://app.transifex.com/anticapitalista/teams/10162/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+msgid "Accessories"
+msgstr "Accesorii"
+
+msgid "All Applications"
+msgstr "Toate programele"
+
+msgid "Development"
+msgstr "Dezvoltare"
+
+msgid "Education"
+msgstr "Educație"
+
+msgid "Games"
+msgstr "Jocuri"
+
+msgid "Graphics"
+msgstr "Grafică"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Birou"
+
+msgid "Other"
+msgstr "Altele"
+
+msgid "Personal"
+msgstr "Personale"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "Protectoare de ecran"
+
+msgid "Settings"
+msgstr "Opțiuni"
+
+msgid "System"
+msgstr "Sistem"

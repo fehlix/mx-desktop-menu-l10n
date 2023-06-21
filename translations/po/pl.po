@@ -1,0 +1,73 @@
+# 
+# Translators:
+# Marcin Karpezo <marcin@karpezo.pl>, 2023
+# Robin, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# MX Linux Polska <mxlinuxpl@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Polish (https://app.transifex.com/anticapitalista/teams/10162/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+msgid "Accessories"
+msgstr "Akcesoria"
+
+msgid "All Applications"
+msgstr "Wszystkie programy"
+
+msgid "Development"
+msgstr "Programowanie"
+
+msgid "Education"
+msgstr "Edukacja"
+
+msgid "Games"
+msgstr "Gry"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Hardware"
+msgstr "Sprzęt"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Narzędzia"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Biuro"
+
+msgid "Other"
+msgstr "Inne"
+
+msgid "Personal"
+msgstr "Osobiste"
+
+msgid "Science"
+msgstr "Nauka"
+
+msgid "Screensavers"
+msgstr "Wygaszacze ekranu"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "System"
+msgstr "System"

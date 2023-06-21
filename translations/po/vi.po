@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# 03af277ad179d6d1cbad62d4a0e288c2, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: 03af277ad179d6d1cbad62d4a0e288c2, 2023\n"
+"Language-Team: Vietnamese (https://app.transifex.com/anticapitalista/teams/10162/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr ""
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Graphics"
+msgstr "Đồ họa"
+
+msgid "Hardware"
+msgstr "Phần cứng"
+
+msgid "Help"
+msgstr "Trợ giúp"
+
+msgid "Internet"
+msgstr ""
+
+msgid "MX Tools"
+msgstr "Công cụ MX"
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Office"
+msgstr "Văn phòng "
+
+msgid "Other"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "System"
+msgstr "Hệ thống"

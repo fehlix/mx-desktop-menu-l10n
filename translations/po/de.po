@@ -1,0 +1,76 @@
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2023
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# WPSchulz <fly@wp-schulz.de>, 2023
+# count.negative <count.negative@gmx.de>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Vinzenz Vietzke <vinz@vinzv.de>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: German (https://app.transifex.com/anticapitalista/teams/10162/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Zubehör"
+
+msgid "All Applications"
+msgstr "Alle Anwendungen"
+
+msgid "Development"
+msgstr "Entwicklung"
+
+msgid "Education"
+msgstr "Bildung"
+
+msgid "Games"
+msgstr "Spiele"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX-Werkzeuge"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Büro"
+
+msgid "Other"
+msgstr "Sonstiges"
+
+msgid "Personal"
+msgstr "Persönlich"
+
+msgid "Science"
+msgstr "Wissenschaft"
+
+msgid "Screensavers"
+msgstr "Bildschirmschoner"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "System"
+msgstr "System"

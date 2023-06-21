@@ -1,0 +1,69 @@
+# 
+# Translators:
+# Wallon Wallon, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: Wallon Wallon, 2023\n"
+"Language-Team: French (Belgium) (https://app.transifex.com/anticapitalista/teams/10162/fr_BE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_BE\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Accessories"
+msgstr "Accessoires"
+
+msgid "All Applications"
+msgstr "Toutes les applications"
+
+msgid "Development"
+msgstr "Développement"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Games"
+msgstr "Jeux"
+
+msgid "Graphics"
+msgstr "Graphisme"
+
+msgid "Hardware"
+msgstr "Matériel"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Outils - MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimédia"
+
+msgid "Office"
+msgstr "Bureautique"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Personal"
+msgstr "Personnel"
+
+msgid "Science"
+msgstr "Sciences"
+
+msgid "Screensavers"
+msgstr "Économiseurs d’écran"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "System"
+msgstr "Système"

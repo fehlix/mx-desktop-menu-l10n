@@ -1,0 +1,72 @@
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# fehlix, 2023
+# Eduard Selma <selma@tinet.cat>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>, 2023\n"
+"Language-Team: Catalan (https://app.transifex.com/anticapitalista/teams/10162/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Accessoris"
+
+msgid "All Applications"
+msgstr "Totes les aplicacions"
+
+msgid "Development"
+msgstr "Desenvolupament"
+
+msgid "Education"
+msgstr "Educació"
+
+msgid "Games"
+msgstr "Jocs"
+
+msgid "Graphics"
+msgstr "Gràfics"
+
+msgid "Hardware"
+msgstr "Maquinari"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimèdia"
+
+msgid "Office"
+msgstr "Ofimàtica"
+
+msgid "Other"
+msgstr "Altres"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Science"
+msgstr "Ciència"
+
+msgid "Screensavers"
+msgstr "Estalvis de pantalla"
+
+msgid "Settings"
+msgstr "Paràmetres"
+
+msgid "System"
+msgstr "Sistema"

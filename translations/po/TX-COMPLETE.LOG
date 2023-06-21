@@ -1,0 +1,77 @@
+# Transifex resource mx-desktop-menu-l10n 
+# with minimum completion percent 10%
+# generated at Wed, 21 Jun 2023 08:38:42 -0500
+   Nr.		Cnt.	 Compl.		Code		Language
+   ---		----	 ------		----		--------
+     1		  18	   100%    	bg      	bg	Bulgarian
+     2		  18	   100%    	ca      	ca	Catalan; Valencian
+     3		  18	   100%    	cs      	cs	Czech
+     4		  18	   100%    	da      	da	Danish
+     5		  18	   100%    	de      	de	German
+     6		  18	   100%    	el      	el	Greek, Modern (1453-)
+     7		  18	   100%    	es      	es	Spanish; Castilian
+     8		  18	   100%    	et      	et	Estonian
+     9		  18	   100%    	eu      	eu	Basque
+    10		  18	   100%    	fr      	fr	French
+    11		  18	   100%    	fr_BE   	fr	French @ Belgium
+    12		  18	   100%    	hr      	hr	Croatian
+    13		  18	   100%    	hu      	hu	Hungarian
+    14		  18	   100%    	id      	id	Indonesian
+    15		  18	   100%    	it      	it	Italian
+    16		  18	   100%    	ja      	ja	Japanese
+    17		  18	   100%    	kk      	kk	Kazakh
+    18		  18	   100%    	ko      	ko	Korean
+    19		  18	   100%    	lt      	lt	Lithuanian
+    20		  18	   100%    	nb      	nb	Bokmål, Norwegian; Norwegian Bokmål
+    21		  18	   100%    	nl      	nl	Dutch; Flemish
+    22		  18	   100%    	pl      	pl	Polish
+    23		  18	   100%    	pt      	pt	Portuguese
+    24		  18	   100%    	pt_BR   	pt	Portuguese @ Brazil
+    25		  18	   100%    	ru      	ru	Russian
+    26		  18	   100%    	sk      	sk	Slovak
+    27		  18	   100%    	sl      	sl	Slovenian
+    28		  18	   100%    	sr      	sr	Serbian
+    29		  18	   100%    	sv      	sv	Swedish
+    30		  18	   100%    	tr      	tr	Turkish
+    31		  18	   100%    	uk      	uk	Ukrainian
+    32		  18	   100%    	zh_CN   	zh	Chinese @ China
+    33		  18	   100%    	zh_TW   	zh	Chinese @ Taiwan, Province of China
+    34		  17	    94%    	am      	am	Amharic
+    35		  17	    94%    	ar      	ar	Arabic
+    36		  17	    94%    	fi      	fi	Finnish
+    37		  17	    94%    	he      	he	Hebrew
+    38		  17	    94%    	hi      	hi	Hindi
+    39		  17	    94%    	is      	is	Icelandic
+    40		  17	    94%    	ms      	ms	Malay
+    41		  17	    94%    	ro      	ro	Romanian; Moldavian; Moldovan
+    42		  17	    94%    	sq      	sq	Albanian
+    43		  17	    94%    	th      	th	Thai
+    44		  16	    88%    	be      	be	Belarusian
+    45		  16	    88%    	gl      	gl	Galician
+    46		  16	    88%    	ie      	ie	Interlingue; Occidental
+    47		  16	    88%    	oc      	oc	Occitan (post 1500); Provençal
+    48		  15	    83%    	ast     		Asturian
+    49		  15	    83%    	cy      	cy	Welsh
+    50		  15	    83%    	eo      	eo	Esperanto
+    51		  15	    83%    	hy_AM   	hy	Armenian @ Armenia
+    52		  15	    83%    	hye     	L	hy	arm	Armenian
+    53		  15	    83%    	ka      	ka	Georgian
+    54		  15	    83%    	zh_HK   	zh	Chinese @ Hong Kong
+    55		  14	    77%    	bn      	bn	Bengali
+    56		  14	    77%    	hy      	hy	Armenian
+    57		  14	    77%    	nn      	nn	Norwegian Nynorsk; Nynorsk, Norwegian
+    58		  14	    77%    	te      	te	Telugu
+    59		  14	    77%    	ug      	ug	Uighur; Uyghur
+    60		  14	    77%    	uz      	uz	Uzbek
+    61		  13	    72%    	he_IL   	he	Hebrew @ Israel
+    62		  13	    72%    	kab     		Kabyle
+    63		  11	    61%    	es_ES   	es	Spanish; Castilian @ Spain
+    64		  11	    61%    	gl_ES   	gl	Galician @ Spain
+    65		  10	    55%    	nl_BE   	nl	Dutch; Flemish @ Belgium
+    66		   7	    38%    	fil_PH  		Filipino @ Philippines
+    67		   6	    33%    	vi      	vi	Vietnamese
+    68		   4	    22%    	fa      	fa	Persian
+    69		   4	    22%    	mr      	mr	Marathi
+    70		   2	    11%    	gu      	gu	Gujarati
+    71		   2	    11%    	mk      	mk	Macedonian
+    72		   2	    11%    	nb_NO   	nb	Bokmål, Norwegian; Norwegian Bokmål @ Norway

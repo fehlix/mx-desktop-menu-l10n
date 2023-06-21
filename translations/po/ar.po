@@ -1,0 +1,71 @@
+# 
+# Translators:
+# Robin, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/anticapitalista/teams/10162/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Accessories"
+msgstr "ملحقات"
+
+msgid "All Applications"
+msgstr "جميع التطبيقات"
+
+msgid "Development"
+msgstr "تطوير"
+
+msgid "Education"
+msgstr "تعليم"
+
+msgid "Games"
+msgstr "ألعاب"
+
+msgid "Graphics"
+msgstr "رسوميات"
+
+msgid "Hardware"
+msgstr "أجهزة"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Internet"
+msgstr "إنترنت"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "وسائط المتعددة"
+
+msgid "Office"
+msgstr "مكتب"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "Personal"
+msgstr "شخصي"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "حافظات الشاشة"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "System"
+msgstr "النّظام"

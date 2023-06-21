@@ -1,0 +1,71 @@
+# 
+# Translators:
+# Robin, 2023
+# Catur Susetyo <satyafree@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Indonesian (https://app.transifex.com/anticapitalista/teams/10162/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "Aksesoris"
+
+msgid "All Applications"
+msgstr "Semua Aplikasi"
+
+msgid "Development"
+msgstr "Pengembangan"
+
+msgid "Education"
+msgstr "Edukasi"
+
+msgid "Games"
+msgstr "Permainan"
+
+msgid "Graphics"
+msgstr "Grafis"
+
+msgid "Hardware"
+msgstr "Peranti keras"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Perkantoran"
+
+msgid "Other"
+msgstr "Lainnya"
+
+msgid "Personal"
+msgstr "Pribadi"
+
+msgid "Science"
+msgstr "Sains"
+
+msgid "Screensavers"
+msgstr "Penyimpan Layar"
+
+msgid "Settings"
+msgstr "Konfigurasi"
+
+msgid "System"
+msgstr "Sistem"

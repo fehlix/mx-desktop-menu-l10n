@@ -1,0 +1,72 @@
+# 
+# Translators:
+# mahmut özcan <faradundamarti@yandex.com>, 2023
+# Caner Başaran <basaran.caner@gmail.com>, 2023
+# mahmut özcan <mahmutozcan@protonmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Turkish (https://app.transifex.com/anticapitalista/teams/10162/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Accessories"
+msgstr "Donatılar"
+
+msgid "All Applications"
+msgstr "Tüm Uygulamalar"
+
+msgid "Development"
+msgstr "Geliştirme"
+
+msgid "Education"
+msgstr "Eğitim"
+
+msgid "Games"
+msgstr "Oyunlar"
+
+msgid "Graphics"
+msgstr "Grafikler"
+
+msgid "Hardware"
+msgstr "Donanım"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Internet"
+msgstr "İnternet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Çokluortam"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Other"
+msgstr "Diğer"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "Science"
+msgstr "Bilim"
+
+msgid "Screensavers"
+msgstr "Ekran koruyucular"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "System"
+msgstr "Sistem"

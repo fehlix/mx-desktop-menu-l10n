@@ -1,0 +1,75 @@
+# 
+# Translators:
+# Danylo Sa <kaiserblast@gmail.com>, 2023
+# test, 2023
+# cmenemrs <cmenemrs@gmail.com>, 2023
+# José Vieira <jvieira33@sapo.pt>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# fehlix, 2023
+# marcelo cripe <marcelocripe@gmail.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: marcelo cripe <marcelocripe@gmail.com>, 2023\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/anticapitalista/teams/10162/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Accessories"
+msgstr "Acessórios"
+
+msgid "All Applications"
+msgstr "Todos os Aplicativos"
+
+msgid "Development"
+msgstr "Desenvolvimento"
+
+msgid "Education"
+msgstr "Educação"
+
+msgid "Games"
+msgstr "Jogos"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Hardware"
+msgstr "Equipamento"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "Ferramentas do MX"
+
+msgid "Multimedia"
+msgstr "Multimídia"
+
+msgid "Office"
+msgstr "Escritório"
+
+msgid "Other"
+msgstr "Outros"
+
+msgid "Personal"
+msgstr "Pessoais"
+
+msgid "Science"
+msgstr "Ciência"
+
+msgid "Screensavers"
+msgstr "Protetores de Tela"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "System"
+msgstr "Sistema"

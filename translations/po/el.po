@@ -1,0 +1,71 @@
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Ioannis LM, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Greek (https://app.transifex.com/anticapitalista/teams/10162/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Βοηθήματα"
+
+msgid "All Applications"
+msgstr "Όλες οι εφαρμογές"
+
+msgid "Development"
+msgstr "Ανάπτυξη"
+
+msgid "Education"
+msgstr "Εκπαίδευση"
+
+msgid "Games"
+msgstr "Παιχνίδια"
+
+msgid "Graphics"
+msgstr "Γραφικά"
+
+msgid "Hardware"
+msgstr "Υλικό"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Πολυμέσα"
+
+msgid "Office"
+msgstr "Γραφείο"
+
+msgid "Other"
+msgstr "Άλλα"
+
+msgid "Personal"
+msgstr "Προσωπικά"
+
+msgid "Science"
+msgstr "Επιστήμη"
+
+msgid "Screensavers"
+msgstr "Εφαρμογές προστασίας οθόνης"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "System"
+msgstr "Σύστημα"

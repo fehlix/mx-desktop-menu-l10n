@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2023\n"
+"Language-Team: Macedonian (https://app.transifex.com/anticapitalista/teams/10162/mk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mk\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+
+msgid "Accessories"
+msgstr ""
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Help"
+msgstr "Помош"
+
+msgid "Internet"
+msgstr ""
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Office"
+msgstr "Канцеларија"
+
+msgid "Other"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "System"
+msgstr ""

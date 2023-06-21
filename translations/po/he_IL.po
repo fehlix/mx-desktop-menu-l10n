@@ -1,0 +1,71 @@
+# 
+# Translators:
+# 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e <ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# hell spurs <alesha2000@gmail.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: hell spurs <alesha2000@gmail.com>, 2023\n"
+"Language-Team: Hebrew (Israel) (https://app.transifex.com/anticapitalista/teams/10162/he_IL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+msgid "Accessories"
+msgstr "עזרים"
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr "פיתוח"
+
+msgid "Education"
+msgstr "לומדות"
+
+msgid "Games"
+msgstr ""
+
+msgid "Graphics"
+msgstr "גרפיקה"
+
+msgid "Hardware"
+msgstr "חומרה"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "Internet"
+msgstr ""
+
+msgid "MX Tools"
+msgstr "הכלים של MX"
+
+msgid "Multimedia"
+msgstr "מולטימדיה"
+
+msgid "Office"
+msgstr "משרד"
+
+msgid "Other"
+msgstr "שונות"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "שומרי מסך"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "System"
+msgstr "מערכת"

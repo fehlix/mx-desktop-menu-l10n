@@ -1,0 +1,73 @@
+# 
+# Translators:
+# ko <ko.bros@gmail.com>, 2023
+# Robin, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Eadwine Rose, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/anticapitalista/teams/10162/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Hulpmiddelen"
+
+msgid "All Applications"
+msgstr "Alle toepassingen"
+
+msgid "Development"
+msgstr "Ontwikkeling"
+
+msgid "Education"
+msgstr "Onderwijs"
+
+msgid "Games"
+msgstr "Spelletjes"
+
+msgid "Graphics"
+msgstr "Afbeeldingen"
+
+msgid "Hardware"
+msgstr "Apparatuur"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Other"
+msgstr "Overige"
+
+msgid "Personal"
+msgstr "Persoonlijk"
+
+msgid "Science"
+msgstr "Wetenschap"
+
+msgid "Screensavers"
+msgstr "Schermbeveiligingen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "System"
+msgstr "Systeem"

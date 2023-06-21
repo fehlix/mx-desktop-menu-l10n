@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Georgian (https://app.transifex.com/anticapitalista/teams/10162/ka/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ka\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Accessories"
+msgstr "აქსესუარები"
+
+msgid "All Applications"
+msgstr "ყველა პროგრამა"
+
+msgid "Development"
+msgstr "განვითარება"
+
+msgid "Education"
+msgstr "განათლება"
+
+msgid "Games"
+msgstr "თამაშები"
+
+msgid "Graphics"
+msgstr "გრაფიკა"
+
+msgid "Hardware"
+msgstr "აპარატურა"
+
+msgid "Help"
+msgstr ""
+
+msgid "Internet"
+msgstr "ინტერნეტი"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "მულტიმედია"
+
+msgid "Office"
+msgstr "ოფისი"
+
+msgid "Other"
+msgstr "სხვა"
+
+msgid "Personal"
+msgstr "პირადი"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "ეკრანმზოგები"
+
+msgid "Settings"
+msgstr "პარამეტრები"
+
+msgid "System"
+msgstr "სისტემა"

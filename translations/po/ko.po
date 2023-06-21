@@ -1,0 +1,72 @@
+# 
+# Translators:
+# Seok Chae <seok.chae@gmail.com>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/anticapitalista/teams/10162/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "보조프로그램"
+
+msgid "All Applications"
+msgstr "모든 프로그램"
+
+msgid "Development"
+msgstr "개발"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Games"
+msgstr "게임"
+
+msgid "Graphics"
+msgstr "그래픽"
+
+msgid "Hardware"
+msgstr "하드웨어"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Internet"
+msgstr "인터넷"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "멀티미디어"
+
+msgid "Office"
+msgstr "사무"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "Personal"
+msgstr "개인"
+
+msgid "Science"
+msgstr "과학"
+
+msgid "Screensavers"
+msgstr "화면 보호기"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "System"
+msgstr "시스템"

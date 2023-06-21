@@ -1,0 +1,73 @@
+# 
+# Translators:
+# EldersJavas <eldersjavas@gmail.com>, 2023
+# a73a47e368cc011d8f94528bd9d5d3f1_91fccdf <1b07f49e2a323989c85dd26d526f7bb9_871526>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Xie Yanbo <xieyanbo@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Chinese (China) (https://app.transifex.com/anticapitalista/teams/10162/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "附件"
+
+msgid "All Applications"
+msgstr "全部应用程序"
+
+msgid "Development"
+msgstr "开发"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Graphics"
+msgstr "图形"
+
+msgid "Hardware"
+msgstr "硬件"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "多媒体"
+
+msgid "Office"
+msgstr "办公"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid "Science"
+msgstr "科学"
+
+msgid "Screensavers"
+msgstr "屏幕保护"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "System"
+msgstr "系统"

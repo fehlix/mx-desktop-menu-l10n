@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Vanhoorne Michael, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>, 2023\n"
+"Language-Team: Dutch (Belgium) (https://app.transifex.com/anticapitalista/teams/10162/nl_BE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_BE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr ""
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr "Ontwikkeling"
+
+msgid "Education"
+msgstr ""
+
+msgid "Games"
+msgstr "Spellen"
+
+msgid "Graphics"
+msgstr "Grafisch"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Internet"
+msgstr ""
+
+msgid "MX Tools"
+msgstr "MX Gereedschappen"
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Other"
+msgstr "Overige"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr ""
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "System"
+msgstr "Systeem"

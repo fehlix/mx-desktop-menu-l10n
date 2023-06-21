@@ -1,0 +1,71 @@
+# 
+# Translators:
+# Robin, 2023
+# En Kerro <inactive+ekeimaja@transifex.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Finnish (https://app.transifex.com/anticapitalista/teams/10162/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Apuohjelmat"
+
+msgid "All Applications"
+msgstr "Kaikki sovellukset"
+
+msgid "Development"
+msgstr "Ohjelmistokehitys"
+
+msgid "Education"
+msgstr "Opetus"
+
+msgid "Games"
+msgstr "Pelit"
+
+msgid "Graphics"
+msgstr "Grafiikka"
+
+msgid "Hardware"
+msgstr "Laitteisto"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Työkalut"
+
+msgid "Multimedia"
+msgstr "Ääni ja video"
+
+msgid "Office"
+msgstr "Toimisto"
+
+msgid "Other"
+msgstr "Muut"
+
+msgid "Personal"
+msgstr "Henkilökohtaiset"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "Näytönsäästäjät"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "System"
+msgstr "Järjestelmä"

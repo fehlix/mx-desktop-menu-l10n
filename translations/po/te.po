@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Telugu (https://app.transifex.com/anticapitalista/teams/10162/te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "సహాయకాలు"
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr "అభివృద్ధి"
+
+msgid "Education"
+msgstr "విద్య"
+
+msgid "Games"
+msgstr "ఆటలు"
+
+msgid "Graphics"
+msgstr "రేఖాచిత్రాలు"
+
+msgid "Hardware"
+msgstr "హార్డ్‌వేర్"
+
+msgid "Help"
+msgstr ""
+
+msgid "Internet"
+msgstr "అంతర్జాలం"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "బహుళమాధ్యమం"
+
+msgid "Office"
+msgstr "కార్యాలయం"
+
+msgid "Other"
+msgstr "ఇతర"
+
+msgid "Personal"
+msgstr "వ్యక్తిగతం"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "తెరకాపరులు"
+
+msgid "Settings"
+msgstr "అమరికలు"
+
+msgid "System"
+msgstr "వ్యవస్థ"

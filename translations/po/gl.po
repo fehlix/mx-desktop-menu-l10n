@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Galician (https://app.transifex.com/anticapitalista/teams/10162/gl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Accesorios"
+
+msgid "All Applications"
+msgstr "Todas as aplicacións"
+
+msgid "Development"
+msgstr "Desenvolvemento"
+
+msgid "Education"
+msgstr "Educación"
+
+msgid "Games"
+msgstr "Xogos"
+
+msgid "Graphics"
+msgstr "Imaxes"
+
+msgid "Hardware"
+msgstr "Soporte físico"
+
+msgid "Help"
+msgstr "Axuda"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Oficina"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Personal"
+msgstr "Persoal"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "Protectores de pantalla"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "System"
+msgstr "Sistema"

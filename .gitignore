@@ -1,0 +1,11 @@
+.tx/
+*.bak/
+*~/
+*.bak
+*~
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/*.substvars
+debian/mx-desktop-menu-l10n/
+mesonbuild/

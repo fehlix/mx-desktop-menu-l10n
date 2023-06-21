@@ -1,0 +1,72 @@
+# 
+# Translators:
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2023
+# Robin, 2023
+# samson <sambelet@yahoo.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Amharic (https://app.transifex.com/anticapitalista/teams/10162/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Accessories"
+msgstr "ተጨማሪዎች"
+
+msgid "All Applications"
+msgstr "ሁሉም ፕሮግራሞች"
+
+msgid "Development"
+msgstr "አበልፃጊዎች"
+
+msgid "Education"
+msgstr "ትምህርት"
+
+msgid "Games"
+msgstr "ጨዋታዎች"
+
+msgid "Graphics"
+msgstr "ንድፎች"
+
+msgid "Hardware"
+msgstr "ጠንካራ አካል"
+
+msgid "Help"
+msgstr "እርዳታ"
+
+msgid "Internet"
+msgstr "ኢንተርኔት"
+
+msgid "MX Tools"
+msgstr "MX መሳሪያ"
+
+msgid "Multimedia"
+msgstr "ብዙሀን መገናኛ"
+
+msgid "Office"
+msgstr "ቢሮ"
+
+msgid "Other"
+msgstr "ሌላ"
+
+msgid "Personal"
+msgstr "የ ግል"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "መመልከቻ ማዳኛ"
+
+msgid "Settings"
+msgstr "ማሰናጃዎች"
+
+msgid "System"
+msgstr "ስርአት"

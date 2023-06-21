@@ -1,0 +1,70 @@
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Estonian (https://app.transifex.com/anticapitalista/teams/10162/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Tarvikud"
+
+msgid "All Applications"
+msgstr "Kõik rakendused"
+
+msgid "Development"
+msgstr "Arendus"
+
+msgid "Education"
+msgstr "Haridus"
+
+msgid "Games"
+msgstr "Mängud"
+
+msgid "Graphics"
+msgstr "Graafika"
+
+msgid "Hardware"
+msgstr "Riistvara"
+
+msgid "Help"
+msgstr "Abi"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimeedia"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Other"
+msgstr "Muud"
+
+msgid "Personal"
+msgstr "Isiklik"
+
+msgid "Science"
+msgstr "Teadus"
+
+msgid "Screensavers"
+msgstr "Ekraanisäästjad"
+
+msgid "Settings"
+msgstr "Seaded"
+
+msgid "System"
+msgstr "Süsteem"

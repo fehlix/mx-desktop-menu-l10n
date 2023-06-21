@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Hebrew (https://app.transifex.com/anticapitalista/teams/10162/he/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+msgid "Accessories"
+msgstr "עזרים"
+
+msgid "All Applications"
+msgstr "כל היישומים"
+
+msgid "Development"
+msgstr "פיתוח"
+
+msgid "Education"
+msgstr "לומדות"
+
+msgid "Games"
+msgstr "משחקים"
+
+msgid "Graphics"
+msgstr "גרפיקה"
+
+msgid "Hardware"
+msgstr "חומרה"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "Internet"
+msgstr "אינטרנט"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "מולטימדיה"
+
+msgid "Office"
+msgstr "משרד"
+
+msgid "Other"
+msgstr "שונות"
+
+msgid "Personal"
+msgstr "אישי"
+
+msgid "Science"
+msgstr "מדע"
+
+msgid "Screensavers"
+msgstr "שומרי מסך"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "System"
+msgstr "מערכת"

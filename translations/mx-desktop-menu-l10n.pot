@@ -1,0 +1,62 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Accessories"
+msgstr "Accessories"
+
+msgid "All Applications"
+msgstr "All Applications"
+
+msgid "Development"
+msgstr "Development"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Graphics"
+msgstr "Graphics"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Screensavers"
+msgstr "Screensavers"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "System"
+msgstr "System"

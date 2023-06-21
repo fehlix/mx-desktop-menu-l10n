@@ -1,0 +1,72 @@
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Tony Ivanov <duskull88@fastmail.fm>, 2023
+# James Bowlin <BitJam@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Bulgarian (https://app.transifex.com/anticapitalista/teams/10162/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "Помощни приложения"
+
+msgid "All Applications"
+msgstr "Всички програми"
+
+msgid "Development"
+msgstr "Разработка"
+
+msgid "Education"
+msgstr "Образование"
+
+msgid "Games"
+msgstr "Игри"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Hardware"
+msgstr "Хардуер"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Мултимедия"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Other"
+msgstr "Други"
+
+msgid "Personal"
+msgstr "Лични"
+
+msgid "Science"
+msgstr "Наука"
+
+msgid "Screensavers"
+msgstr "Предпазители на екрана"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "System"
+msgstr "Система"

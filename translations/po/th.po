@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Pongpeera Wongprasitthiporn, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Thai (https://app.transifex.com/anticapitalista/teams/10162/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "เครื่องใช้ไม้สอย"
+
+msgid "All Applications"
+msgstr "โปรแกรมทั้งหมด"
+
+msgid "Development"
+msgstr "พัฒนาโปรแกรม"
+
+msgid "Education"
+msgstr "การศึกษา"
+
+msgid "Games"
+msgstr "เกม"
+
+msgid "Graphics"
+msgstr "รูปภาพ"
+
+msgid "Hardware"
+msgstr "ฮาร์ดแวร์"
+
+msgid "Help"
+msgstr "วิธีใช้"
+
+msgid "Internet"
+msgstr "อินเทอร์เน็ต"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "สื่อผสม"
+
+msgid "Office"
+msgstr "สำนักงาน"
+
+msgid "Other"
+msgstr "อื่นๆ"
+
+msgid "Personal"
+msgstr "ส่วนบุคคล"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "โปรแกรมรักษาหน้าจอ"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "System"
+msgstr "ระบบ"

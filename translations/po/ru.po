@@ -1,0 +1,74 @@
+# 
+# Translators:
+# Olga Yevseyeva <olga.oydesign@gmail.com>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Vladimir O <vldoduv@yandex.ru>, 2023
+# Вячеслав Волошин <vol_vel@mail.ru>, 2023
+# Geoff Gigg <geoffgigg@hotmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Russian (https://app.transifex.com/anticapitalista/teams/10162/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Accessories"
+msgstr "Инструменты"
+
+msgid "All Applications"
+msgstr "Все приложения"
+
+msgid "Development"
+msgstr "Разработка"
+
+msgid "Education"
+msgstr "Образование"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Hardware"
+msgstr "Оборудование"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "MX Tools"
+msgstr "MX Инструменты"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Other"
+msgstr "Прочее"
+
+msgid "Personal"
+msgstr "Личные"
+
+msgid "Science"
+msgstr "Наука"
+
+msgid "Screensavers"
+msgstr "Хранители экрана"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "System"
+msgstr "Система"

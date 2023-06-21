@@ -1,0 +1,71 @@
+# 
+# Translators:
+# Robin, 2023
+# Sveinn í Felli <sv1@fellsnet.is>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Icelandic (https://app.transifex.com/anticapitalista/teams/10162/is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Accessories"
+msgstr "Aukahlutir"
+
+msgid "All Applications"
+msgstr "Öll forrit"
+
+msgid "Development"
+msgstr "Forritun"
+
+msgid "Education"
+msgstr "Menntun"
+
+msgid "Games"
+msgstr "Leikir"
+
+msgid "Graphics"
+msgstr "Myndvinnsla"
+
+msgid "Hardware"
+msgstr "Vélbúnaður"
+
+msgid "Help"
+msgstr "Hjálp"
+
+msgid "Internet"
+msgstr "Internetið"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Margmiðlun"
+
+msgid "Office"
+msgstr "Skrifstofuforrit"
+
+msgid "Other"
+msgstr "Annað"
+
+msgid "Personal"
+msgstr "Einka"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "Skjáhvílur"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "System"
+msgstr "Kerfið"

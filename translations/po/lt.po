@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Moo, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Lithuanian (https://app.transifex.com/anticapitalista/teams/10162/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Accessories"
+msgstr "Reikmenys"
+
+msgid "All Applications"
+msgstr "Visos programos"
+
+msgid "Development"
+msgstr "Kūrimas"
+
+msgid "Education"
+msgstr "Švietimas"
+
+msgid "Games"
+msgstr "Žaidimai"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Hardware"
+msgstr "Aparatinė įranga"
+
+msgid "Help"
+msgstr "Žinynas"
+
+msgid "Internet"
+msgstr "Internetas"
+
+msgid "MX Tools"
+msgstr "MX įrankiai"
+
+msgid "Multimedia"
+msgstr "Garsas ir vaizdas"
+
+msgid "Office"
+msgstr "Raštinė"
+
+msgid "Other"
+msgstr "Kita"
+
+msgid "Personal"
+msgstr "Asmeniniai"
+
+msgid "Science"
+msgstr "Mokslas"
+
+msgid "Screensavers"
+msgstr "Ekrano užsklandos"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "System"
+msgstr "Sistema"

@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Bengali (https://app.transifex.com/anticapitalista/teams/10162/bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Accessories"
+msgstr "আনুষঙ্গিক"
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr "তৈরি"
+
+msgid "Education"
+msgstr "শিক্ষা"
+
+msgid "Games"
+msgstr "গেমস"
+
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+msgid "Hardware"
+msgstr "হার্ডওয়্যার"
+
+msgid "Help"
+msgstr ""
+
+msgid "Internet"
+msgstr "ইন্টারনেট"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "মাল্টিমিডিয়া"
+
+msgid "Office"
+msgstr "অফিস"
+
+msgid "Other"
+msgstr "অন্যান্য"
+
+msgid "Personal"
+msgstr "ব্যক্তিগত"
+
+msgid "Science"
+msgstr ""
+
+msgid "Screensavers"
+msgstr "স্ক্রীনসেভার"
+
+msgid "Settings"
+msgstr "সেটিংসমূহ"
+
+msgid "System"
+msgstr "সিস্টেম"

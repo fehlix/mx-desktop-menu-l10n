@@ -1,0 +1,74 @@
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2023
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2023
+# Robin, 2023
+# Guybrush88 <erpizzo@alice.it>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/anticapitalista/teams/10162/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Accessories"
+msgstr "Accessori"
+
+msgid "All Applications"
+msgstr "Tutte le Applicazioni"
+
+msgid "Development"
+msgstr "Sviluppo"
+
+msgid "Education"
+msgstr "Istruzione"
+
+msgid "Games"
+msgstr "Giochi"
+
+msgid "Graphics"
+msgstr "Grafica"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Ufficio"
+
+msgid "Other"
+msgstr "Altro"
+
+msgid "Personal"
+msgstr "Personale"
+
+msgid "Science"
+msgstr "Scienza"
+
+msgid "Screensavers"
+msgstr "Salvaschermi"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "System"
+msgstr "Sistema"

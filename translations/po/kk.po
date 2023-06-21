@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Kazakh (https://app.transifex.com/anticapitalista/teams/10162/kk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Accessories"
+msgstr "Қалыпты"
+
+msgid "All Applications"
+msgstr "Барлық қолданбалар"
+
+msgid "Development"
+msgstr "Өндіру"
+
+msgid "Education"
+msgstr "Білім алу"
+
+msgid "Games"
+msgstr "Ойындар"
+
+msgid "Graphics"
+msgstr "Бейнелеу"
+
+msgid "Hardware"
+msgstr "Құрылғылар"
+
+msgid "Help"
+msgstr "Көмек"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "MX Tools"
+msgstr "MX Tools"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "Office"
+msgstr "Кеңселік"
+
+msgid "Other"
+msgstr "Басқалар"
+
+msgid "Personal"
+msgstr "Жеке"
+
+msgid "Science"
+msgstr "Ғылым"
+
+msgid "Screensavers"
+msgstr "Экранды қорғау"
+
+msgid "Settings"
+msgstr "Баптаулар"
+
+msgid "System"
+msgstr "Жүйелік"

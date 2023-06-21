@@ -1,0 +1,73 @@
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2023
+# Shoichi Chou <shoichi.chou@gmail.com>, 2023
+# Robin, 2023
+# 51a7f875c7adb3c4cb4a6f61503cfd15_7a37073 <f7fcf63a7b49480fab3c45eae0d471e7_672708>, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/anticapitalista/teams/10162/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Accessories"
+msgstr "附屬應用"
+
+msgid "All Applications"
+msgstr "所有應用程式"
+
+msgid "Development"
+msgstr "開發"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Games"
+msgstr "遊戲"
+
+msgid "Graphics"
+msgstr "美工繪圖"
+
+msgid "Hardware"
+msgstr "硬體"
+
+msgid "Help"
+msgstr "說明"
+
+msgid "Internet"
+msgstr "網際網路"
+
+msgid "MX Tools"
+msgstr "MX 工具組"
+
+msgid "Multimedia"
+msgstr "多媒體"
+
+msgid "Office"
+msgstr "辦公"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Personal"
+msgstr "個人"
+
+msgid "Science"
+msgstr "科學"
+
+msgid "Screensavers"
+msgstr "螢幕保護程式"
+
+msgid "Settings"
+msgstr "設定值"
+
+msgid "System"
+msgstr "系統"

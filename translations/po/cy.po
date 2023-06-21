@@ -1,0 +1,70 @@
+# 
+# Translators:
+# Robin, 2023
+# fehlix, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mx-desktop-menu-l10n\n"
+"POT-Creation-Date: 2023-06-20 06:50+0000\n"
+"Last-Translator: fehlix, 2023\n"
+"Language-Team: Welsh (https://app.transifex.com/anticapitalista/teams/10162/cy/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+
+msgid "Accessories"
+msgstr "Ategolion"
+
+msgid "All Applications"
+msgstr ""
+
+msgid "Development"
+msgstr "Datblygu"
+
+msgid "Education"
+msgstr "Addysg"
+
+msgid "Games"
+msgstr "Gemau"
+
+msgid "Graphics"
+msgstr "Graffeg"
+
+msgid "Hardware"
+msgstr "Caledwedd"
+
+msgid "Help"
+msgstr ""
+
+msgid "Internet"
+msgstr "Rhyngrwyd"
+
+msgid "MX Tools"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Amlgyfryngau"
+
+msgid "Office"
+msgstr "Swyddfa"
+
+msgid "Other"
+msgstr "Arall"
+
+msgid "Personal"
+msgstr "Personol"
+
+msgid "Science"
+msgstr "Gwyddoniaeth"
+
+msgid "Screensavers"
+msgstr "Arbedwyr Sgrin"
+
+msgid "Settings"
+msgstr "Gosodiadau"
+
+msgid "System"
+msgstr "System"
