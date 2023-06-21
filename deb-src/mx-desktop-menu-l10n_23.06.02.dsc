@@ -13,26 +13,26 @@ Build-Depends: debhelper-compat (= 13), meson (>= 1.0)
 Package-List:
  mx-desktop-menu-l10n deb system optional arch=all
 Checksums-Sha1:
- fe8cef60f2c868b8478a33c7db897557c4b1f79d 17028 mx-desktop-menu-l10n_23.06.02.tar.xz
+ 8b584d24f3106b29a6f7c1f05863bd48f31a6a07 16928 mx-desktop-menu-l10n_23.06.02.tar.xz
 Checksums-Sha256:
- c0b8b4c5d710f458cbff337ca1e824e6ff1773f3a9dae4b3a13d43e0ead42d21 17028 mx-desktop-menu-l10n_23.06.02.tar.xz
+ b12e631c5adb25e00eb2983000999177d11d72857e9f59e09b67d5ff44102fb9 16928 mx-desktop-menu-l10n_23.06.02.tar.xz
 Files:
- 5864d1ca2cde0ae9301580a05ce54785 17028 mx-desktop-menu-l10n_23.06.02.tar.xz
+ 65e45c0621a86e2974a046fc2f4ee13f 16928 mx-desktop-menu-l10n_23.06.02.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmSS/msTHGZlaGxpeEBt
-eGxpbnV4Lm9yZwAKCRAvV48brJ2b6TRSD/4rBoeiMqinXhckSPT/J3sTm0yka3MR
-Jtn1GtDbI0lbC8nZkxIpkQXDqTsVYMfdT/dBhaFwjADLNCwmwkpfKwe7ZUEBOncr
-dA0YbEBjBLeBZ4rMSxq+CfKEn1ccAmXhuuMdd+X7pvGn8G86eaLGsHKiy72FTvQ+
-DId9fmzzyGC83j5q3ZpWsmXwtgWhCuzl3fl+PASszIu/HqhokuesBkNc2YzOUcYM
-GMajG6wZGIOGImio/xMZ/Jt8nucF9jocbZh2zdGnBLi99zXB5AJqkld7a4WH3ITP
-YddVQ+501MGqLsl4VuKyxDQO2tBBrKNDtxghcbu0glVmAetrnNAwVMnNbwrRqGOP
-0u8rDwGH2/gc/Mx7UkkbuYnrJIlGqfP6+lDDywKX8V7zZpXj8ZWFCm6hsJdd8h/j
-lEq89F9OXtyEGF/w8bZF01qO4Ozq4WuG7LQS3pH0/KY38dNpIl+TUR44/6gpsEUp
-lmY8pYD9NsRdVFXddyrLgIIqb2pxPe//DH5xQ2p2jUey1C7vGGhGQqapMqE2NALf
-D/780xnIHhyy8jwXccVMP+cT8BTL80FMzhcjLjGNPuw37ocMJTN9pOZvXFoJdXR6
-6yHcqpGc4tXyJd0Af4qNLYELot6mxRADNAlo9rX9eE13dj6bXY1ddTyHAYYiJasp
-HJchcEOjhmdmXw==
-=zEKD
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmSTC4ETHGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6RpNEACUCyBpLh3MSNMxIgozUlnKV1Lz4HWG
+NGBTUa1u2m9WAKjlWOBvIeily84ZkJZ/IZw0eYNTl4Qzt20yf0crEoxaIAxyVQoy
+aS1DPwtyXBF+/mKKkdLw1DnnLD2m5KGWk9V5S+yA4R8dZV7JNKcpbyv65Po9cwf9
+DI+EOy97IgciXDqktEEGfXDVtSUcIG3/mMaEYkRlDlvZJ5NxrSFEOrvNrJvBXpAq
+OmedngnnyGN0A4zJTtJSc+hxgVXMJngjNeRMHDT9Ti8rDk2XXaHVYQXmTk+R52uW
+hEHpP3aGwQ1MxdbtCGElbRzNt5MislDVp49DDCR7yfYvAAxOuo3pXgcpV2FNZhGW
+8NUmEeltmEjffh3JxY6JsRQQjVYqrJKbGppnmrhvK1AgtiyBABEKV6XLYsRM1/N9
+uZqAFlbon0NESrCUSEjtP6saaMs669zwX1IDKP+ahgrANmCzsMu/9lHTvLZRcr/J
+0Ht4HTxu5ZBrSQjUPCQD8cNJ+2lY0y/FZa3W7c5xrQTCiKG0Mw0nlMC5k5tYhOXl
+TZpG9BjxKysy+ltuZPBwX1Kqx3+vjYnzG6MzI3WqkcbrlYCNxan0n3UC1/trAetz
+rvi+OGynvajzbKv3gGiY6nmLb4JwYUnS6giAA1vsOYdMd4GyUpzLLk0Y0WPjg/Gw
+FyA8+zIrePFJXg==
+=coTD
 -----END PGP SIGNATURE-----

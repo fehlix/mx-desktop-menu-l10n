@@ -7,17 +7,17 @@ Binary: mx-desktop-menu-l10n
 Architecture: all source
 Version: 23.06.02
 Checksums-Md5:
- 8e591842287671f358fa5b35a8f86917 1554 mx-desktop-menu-l10n_23.06.02.dsc
- 18384e52eaa0c761582c4e6c920f3d2c 16820 mx-desktop-menu-l10n_23.06.02_all.deb
+ f5ab3246d1b745fddaf37b713ea6ebe7 1554 mx-desktop-menu-l10n_23.06.02.dsc
+ 601022fe8c83f4833025dc377a4a4da1 16824 mx-desktop-menu-l10n_23.06.02_all.deb
 Checksums-Sha1:
- 0cb08a0f2a6cbc514ac4af325777f86ca2c58317 1554 mx-desktop-menu-l10n_23.06.02.dsc
- 20c47cf4054a754f49714087766027447f997bba 16820 mx-desktop-menu-l10n_23.06.02_all.deb
+ c34e3ea9b24b01f141625633917450e8e6fbb737 1554 mx-desktop-menu-l10n_23.06.02.dsc
+ ceb025b63a898994b6e0d3d4e5ad5e310b4ac0fa 16824 mx-desktop-menu-l10n_23.06.02_all.deb
 Checksums-Sha256:
- 5c884a8e7432d374d96ff7738f77f38488ce96da416841ac63de64111b561804 1554 mx-desktop-menu-l10n_23.06.02.dsc
- 1189843d9af38f1c8f90a1d0492946846b6f1f67d88c7a4f32f91be996e3448f 16820 mx-desktop-menu-l10n_23.06.02_all.deb
+ 3a8b6d06a28d78c4311e6e7a6960097e52360dce6cf0fccd885078df610f3506 1554 mx-desktop-menu-l10n_23.06.02.dsc
+ 1cbe69636c6f8f779c9248589e4533d4ed208a1f1418519f932d79cd8a4c62e2 16824 mx-desktop-menu-l10n_23.06.02_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 21 Jun 2023 15:43:06 +0200
+Build-Date: Wed, 21 Jun 2023 16:38:57 +0200
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -208,18 +208,18 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmSS/msTHGZlaGxpeEBt
-eGxpbnV4Lm9yZwAKCRAvV48brJ2b6W/HEACf9i8wCW5pdhUsANEH3OohsYsCVQ5Z
-/vR9P3jZi1NgbFf/xcmtBJS8sXLA5k2oFjYbrDoahP26aCNJp40KhdF4TuMvNCw1
-ZrUy25PBMXFb24zmq50Sfo6ge6TFEpU1MHBxwVBqUoxgrwFI3RPGxcA2KWOzYbKe
-+9/cfQiUhul3m1YlfV/Gus/3vEDUUlqNC1AhrhsxKzfOnlLfN9Zios42u1t4PXgM
-B+hxpVWctebOmXYDJcy8uJpIr+h5MZWYNVjOJT8hcBOEcNSV3Hss2Q8bu3OxlZ2M
-dtaUvHj6e4GVqQ32OcnT2RMF3S/spUE8MxdU321t4fZbmjJeAPUNwbxxstislg9E
-gS8nd5uSx1u66+hI79a94BVw3bpDi36anRdnIOVmlGfx7t9vwnQjWGwdNPGta9Ik
-ZlIYC+uT3KHzDle/+MV93LFEN0RfREb3RAHq/QNOB1vHV/AykatcFYs5w1LXFxkI
-kQubHy28EamwgV07yiLAeTMznfGmyRzbpLm6tsIS1k08TSnMHibStBFvp7iuIdFS
-QllpGGeLG/AuX1JG3vFJf5tAlkqbyItqjAtSxjTdZQsGfoBJh8Sfm0Z9Jo5fXQAq
-7vRXCm6yMixOxdLSaWtmtlK1HMie9pplsXWf1HPNkSheUPxdbJie2tXRAUfHurkH
-FVdQKAegceq+xQ==
-=aspS
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmSTC4ITHGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6TkLD/9EBOyBNzZ+O1WQGHy2T4WRiyvk5X5Z
+ypmPERrKD5+z/fBtoqYaiFmF5e7/0ixF1Ihua2Ytep1QLvSn7rOdBFEdXe+nHNLf
+iNXX5kQXyDLXkTr4SIZtnL8UGOYV46IVMBQYzH3B8gwtKJNn+lkas9zsQGQ1AP2k
+5K5/pv4inQDNEbtP3/KWSmEIyQDyxxyKBsuR8m63EmbR7mnR3ZybyqSOUWaOvhF9
+0/K+YuGl2FpBkRpVcGmP2weUt9RSgaLkXgYaArN2TqDdGGZk2MOuOz7yNKqVEepv
+F7VhxV5yoDKkOEwuORTuDHDYz17sEjXuDQH1XSRPch8jD+tRkiJPN432gg64JXmi
+WQGjtGelSpdqmZnIl/8FSCBB10nDqpMHQGTqA1ysVRi7+mmhCs0OH/JdjULOFK3m
+h3b9A+zJvQwSzRjUw2nGhMSGQAxtEfCLLFQZZn6MczdkXbestnqOIKhVru4vJOar
+PgPHJkNpG/POPYWO5lNKrIgGnEIYCL8m2GorJMzFS5qgFaGlswE3yp1AfrHfbrID
+4jk04Lqqx5HVmEoYAFan0UGHysv94I5klIJk1BzPcLjEtybeISnYk4OLnGhsJp82
+bl3r+q0qpn8K1HZPBQSyNdCetJqcihB9sd3sYWxTf+1mhP2btJbqHGqDtrBZfu6i
+7PSGxiM0kxZf/w==
+=k7QD
 -----END PGP SIGNATURE-----
