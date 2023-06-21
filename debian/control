@@ -11,6 +11,6 @@ Homepage: https://mxlinux.org
 Package: mx-desktop-menu-l10n
 Architecture: all
 Depends: 
- gettext
+ gettext-base
 Description: provides desktop directory translations used in MX Linux
  .
