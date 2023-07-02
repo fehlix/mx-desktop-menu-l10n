@@ -1,3 +1,9 @@
+mx-desktop-menu-l10n (23.07.01) mx; urgency=medium
+
+  * Update translations
+
+ -- fehlix <fehlix@mxlinux.org>  Sun, 02 Jul 2023 13:09:34 -0500
+
 mx-desktop-menu-l10n (23.06.02) mx; urgency=medium
 
   * Add "Help" string to desktop categories

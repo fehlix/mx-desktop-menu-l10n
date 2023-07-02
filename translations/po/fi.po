@@ -3,12 +3,13 @@
 # Robin, 2023
 # En Kerro <inactive+ekeimaja@transifex.com>, 2023
 # fehlix, 2023
+# Risto Pärkkä, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: mx-desktop-menu-l10n\n"
 "POT-Creation-Date: 2023-06-20 06:50+0000\n"
-"Last-Translator: fehlix, 2023\n"
+"Last-Translator: Risto Pärkkä, 2023\n"
 "Language-Team: Finnish (https://app.transifex.com/anticapitalista/teams/10162/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +60,7 @@ msgid "Personal"
 msgstr "Henkilökohtaiset"
 
 msgid "Science"
-msgstr ""
+msgstr "Tiede"
 
 msgid "Screensavers"
 msgstr "Näytönsäästäjät"

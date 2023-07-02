@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Casper, 2023
+# Manuel <senpai99@hotmail.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: mx-desktop-menu-l10n\n"
 "POT-Creation-Date: 2023-06-20 06:50+0000\n"
-"Last-Translator: Casper, 2023\n"
+"Last-Translator: Manuel <senpai99@hotmail.com>, 2023\n"
 "Language-Team: Spanish (Spain) (https://app.transifex.com/anticapitalista/teams/10162/es_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,16 +16,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 msgid "Accessories"
-msgstr ""
+msgstr "Accesorios"
 
 msgid "All Applications"
-msgstr ""
+msgstr "Todas las aplicaciones"
 
 msgid "Development"
 msgstr "Desarrollo"
 
 msgid "Education"
-msgstr ""
+msgstr "Educación"
 
 msgid "Games"
 msgstr "Juegos"
@@ -39,13 +40,13 @@ msgid "Help"
 msgstr "Ayuda"
 
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 msgid "MX Tools"
 msgstr "MX Herramientas"
 
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Office"
 msgstr "Oficina"
@@ -57,10 +58,10 @@ msgid "Personal"
 msgstr "Personal"
 
 msgid "Science"
-msgstr ""
+msgstr "Ciencia"
 
 msgid "Screensavers"
-msgstr ""
+msgstr "Salvapantallas"
 
 msgid "Settings"
 msgstr "Configuración"

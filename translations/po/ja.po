@@ -2,17 +2,17 @@
 # Translators:
 # Dolphin Oracle <dolphinoracle@gmail.com>, 2023
 # anticapitalista <anticapitalista@riseup.net>, 2023
-# Green <usergreen@users.osdn.me>, 2023
 # Transifex Bot <>, 2023
 # 🎈 BALLOON | FU-SEN, 2023
 # James Bowlin <BitJam@gmail.com>, 2023
 # fehlix, 2023
+# Green <usergreen@users.osdn.me>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: mx-desktop-menu-l10n\n"
 "POT-Creation-Date: 2023-06-20 06:50+0000\n"
-"Last-Translator: fehlix, 2023\n"
+"Last-Translator: Green <usergreen@users.osdn.me>, 2023\n"
 "Language-Team: Japanese (https://app.transifex.com/anticapitalista/teams/10162/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,7 +60,7 @@ msgid "Other"
 msgstr "その他"
 
 msgid "Personal"
-msgstr "個人設定"
+msgstr "個人向け（パーソナル）"
 
 msgid "Science"
 msgstr "科学"
