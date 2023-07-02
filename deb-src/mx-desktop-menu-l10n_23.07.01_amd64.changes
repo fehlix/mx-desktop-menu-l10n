@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Jul 2023 13:09:34 -0500
+Source: mx-desktop-menu-l10n
+Binary: mx-desktop-menu-l10n
+Architecture: source all
+Version: 23.07.01
+Distribution: mx
+Urgency: medium
+Maintainer: fehlix <fehlix@mxlinux.org>
+Changed-By: fehlix <fehlix@mxlinux.org>
+Description:
+ mx-desktop-menu-l10n - provides desktop directory translations used in MX Linux
+Changes:
+ mx-desktop-menu-l10n (23.07.01) mx; urgency=medium
+ .
+   * Update translations
+Checksums-Sha1:
+ e540758aa4931483fd55ee23a2518038207f56ec 1554 mx-desktop-menu-l10n_23.07.01.dsc
+ 02e307428bd5d8f0a2df71b812c2b97e59280787 17112 mx-desktop-menu-l10n_23.07.01.tar.xz
+ 3464d9961679fe9d834251548a759708ba7c32a7 17052 mx-desktop-menu-l10n_23.07.01_all.deb
+ bf06bc7328fd5b8f269c9f9011affae0e53e143a 6637 mx-desktop-menu-l10n_23.07.01_amd64.buildinfo
+Checksums-Sha256:
+ 9cd2f4e73760b418dd286c60b1e08542b2e8a5f9ccff8debdeb37b1700c77351 1554 mx-desktop-menu-l10n_23.07.01.dsc
+ 3a29ded568724bfca50f618f653187af722c45995a4aac59b26ec96950e5d901 17112 mx-desktop-menu-l10n_23.07.01.tar.xz
+ 6facc3af372d335a383eb61ba83741c17939935b9f6a82f607158d846e7f9024 17052 mx-desktop-menu-l10n_23.07.01_all.deb
+ e12a6ab3df0e2350cf515cf6cb57cd7bb53e9c432847caf0ec7a4c52d7a593f5 6637 mx-desktop-menu-l10n_23.07.01_amd64.buildinfo
+Files:
+ b08feaf69d839ec98628b85f1db3b5f1 1554 system optional mx-desktop-menu-l10n_23.07.01.dsc
+ c9d4b8778decddc6aca05e62e902352f 17112 system optional mx-desktop-menu-l10n_23.07.01.tar.xz
+ 1de0e238d5d363edab0361a8d9964c33 17052 system optional mx-desktop-menu-l10n_23.07.01_all.deb
+ 0af464101495614f436d6cee04524dac 6637 system optional mx-desktop-menu-l10n_23.07.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEgRnC8/wKXRM2S0xLL1ePG6ydm+kFAmShvaQTHGZlaGxpeEBt
+eGxpbnV4Lm9yZwAKCRAvV48brJ2b6UHMEAClW+SGV1qIvHBXKN253oG7Aui7GFdN
+9+e+kMbei6EKwhGUYwYS1Uyiq1xlzMSoVXvdsH7hXCvypCzA78S9yFtUwGJaA7kd
+eM8gX29SwXV6NryCofBECYzOd+9bgcLZpImTDkWGayChRrpWgFRvR86jNZet/NQV
+2EPZqitfGTvTrSnW9/2Sw26LuzH6wTc0nHjylzo/H1YbKkGdSwW+mntpE/P5+0Mt
+z+2tSfTZ05rOIPlflfwJR+pPLY3lWUdhB7iLKw/6YeSletmkjgLk2c6XEtUqk4Og
+peXMcIl/K5hlp/RSIEeoqIf6MEMQlldnVoOKBECV6rDuUthy/hlKW9dSE8J7qnnm
+Ken/tiIZsygcq1odUJS+18AHu7nV7aobep00fNqqMmAAmGjKIYOrD4fnMJBUTCAO
+ZtVGHPLv77w5Ba/gCCffQOn1T5SXBPDPpTFAY0y2fUDQCO4ZoEfYQFESfFi5cd+s
+vAB7cxu29xzrmYE9TWrRGWCwIcz+w4BFdnoZq2erVtWtsm8izUXAFSpikhORKbzs
+XGtfdMWbZWhN5IHouqwMjST/qfOxW67NAB+SkKqgn/JKskgfBRHb/irRsW1x09zv
+rG9Yjj7VD4lrrvww8/cGdZ12UGvNSvDbQ5HAKDfnqbW3pTExaJIv/6ASdC12I10s
+yv3os+4572s8gQ==
+=ZG5M
+-----END PGP SIGNATURE-----
